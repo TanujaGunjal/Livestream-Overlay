@@ -51,7 +51,7 @@ Built using **React**, **Python Flask**, and **MongoDB**.
 
 ### Database
 
-* MongoDB (Local or Atlas)
+* MongoDB ( Atlas)
 
 ---
 
@@ -124,7 +124,6 @@ pip install -r requirements.txt
 MONGODB_URI=mongodb://localhost:27017/overlay_db
 ```
 
-> ⚠️ Do NOT commit `.env` to GitHub.
 
 5. Run Flask server:
 
